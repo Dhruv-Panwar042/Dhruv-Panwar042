@@ -20,6 +20,9 @@
     <a href="https://leetcode.com/u/DhruvPanwar/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-400+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
+    <a href="https://dhruvpanwar.vercel.app/Dhruv_Panwar_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-PDF-4f46e5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+    </a>
     <a href="mailto:dhruvspanwar12@gmail.com">
       <img src="https://img.shields.io/badge/Email-dhruvspanwar12%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
